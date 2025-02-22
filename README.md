@@ -52,12 +52,12 @@ PROXY_LIFETIME=5
 
 ## Usage
 
-To run the script, execute the following command:
 First install this 
 ```bash
 npm install axios https-proxy-agent cheerio @faker-js/faker tough-cookie dotenv
 ```
 
+To run the script, execute the following command:
 ```bash
 node main.js
 ```
