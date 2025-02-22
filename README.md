@@ -11,7 +11,7 @@
 
 ## Overview
 
-a.js is a JavaScript script designed to simulate realistic browser behavior. It provides a range of features to mimic human-like interactions, including URL reading from files, tab management, cache and cookie management, and more.
+main.js is a JavaScript script designed to simulate realistic browser behavior. It provides a range of features to mimic human-like interactions, including URL reading from files, tab management, cache and cookie management, and more.
 
 ## Features
 
@@ -31,9 +31,8 @@ a.js is a JavaScript script designed to simulate realistic browser behavior. It 
 ## Usage
 
 1. npm install axios https-proxy-agent cheerio @faker-js/faker tough-cookie dotenv
-
 2. Create a file named `url.txt` containing the URLs to simulate.
-3. Run the script using Node.js: `node a.js`
+3. Run the script using Node.js: `node main.js`
 
 ## Requirements
 
